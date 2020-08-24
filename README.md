@@ -4,4 +4,4 @@
 
 **boston_housing.csv** is the dataset used in **feature_engineering.ipynb**
 
-The rest are images used in the notebooks.
+The rest are images used in the notebooks for explanations and illustrations.
