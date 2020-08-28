@@ -19,4 +19,4 @@ Finally, you’ll learn how feature extraction techniques can reduce dimensional
 
 ## Feature Engineering
 
-***Feature Engineering** focusses on Feature Engineering which is one of the strategies used to achieve Dimensionality Reduction.
+***Feature Engineering** is a directory that delves deeper into Feature Engineering. It has two notebooks: **Feature Engineering.ipynb** and **feature_engineering.ipynb**
