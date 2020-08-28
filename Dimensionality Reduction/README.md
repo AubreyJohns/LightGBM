@@ -9,6 +9,7 @@ Typically, you’d visually explore a new dataset first, but when you have too m
 Fortunately, there are visualization techniques designed specifically for high dimensional data and you will learn them from this notebook. 
 
 After exploring the data, you’ll often find that many features hold little information because they don’t show any variance or because they are duplicates of other features.
+
 You’ll learn how to detect these features and drop them from the dataset so that you can focus on the informative ones. 
 
 You might want to build a model on these features, and it may turn out that some don’t have any effect on the thing you’re trying to predict. 
