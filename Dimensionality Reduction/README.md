@@ -16,10 +16,3 @@ You might want to build a model on these features, and it may turn out that some
 You’ll learn how to detect and drop these irrelevant features too, in order to reduce dimensionality and thus complexity. 
 
 Finally, you’ll learn how feature extraction techniques can reduce dimensionality for you through the calculation of uncorrelated principal components.
-<<<<<<< HEAD
-=======
-
-## Feature Engineering
-
-***Feature Engineering** is a directory that delves deeper into Feature Engineering. It has two notebooks: **Feature Engineering.ipynb** and **feature_engineering.ipynb**
->>>>>>> 5910a9b59adaba7b2f9de66c9449fca6a417fa38
