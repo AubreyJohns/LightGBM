@@ -16,7 +16,3 @@ You might want to build a model on these features, and it may turn out that some
 You’ll learn how to detect and drop these irrelevant features too, in order to reduce dimensionality and thus complexity. 
 
 Finally, you’ll learn how feature extraction techniques can reduce dimensionality for you through the calculation of uncorrelated principal components.
-
-## Feature Engineering
-
-***Feature Engineering** focusses on Feature Engineering which is one of the strategies used to achieve Dimensionality Reduction.

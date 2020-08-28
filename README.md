@@ -15,3 +15,5 @@ The rest are images used in **Preprocessing.ipynb** for explanations and illustr
 - Dealing with Categorical Features
 - Feature Selection
 - Feature Extraction
+
+**Feature Engineering** is a directory that delves deeper into Feature Engineering. It has two notebooks: **Feature Engineering.ipynb** and **feature_engineering.ipynb**
